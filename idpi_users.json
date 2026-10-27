@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": "u-admin",
+      "username": "admin",
+      "password": "",
+      "role": "admin",
+      "enabled": true,
+      "created": 1793087512.057928,
+      "display_name": "Administrator",
+      "setup_pending": true
+    }
+  ]
+}
